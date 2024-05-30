@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m an aspiring software engineer who is passionate about building applications that impact the lives of others. I like to embrace challenges and actively seek things out of my comfort zone. 😄 I have lots more to learn, let me learn from/with you!
+feel free to take a look at some of my work! 
+interests: floorball, football, watching any sports, singing out of tune unforunately :(
+
 <!--
 **zhenglong1603/zhenglong1603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
