@@ -5,6 +5,9 @@ feel free to take a look at some of my work!
 
 interests: floorball, football, watching any sports, singing out of tune unforunately :(
 
+GitHub Repositories that I contributed in:
+https://github.com/awlarpi/splitbee
+
 <!--
 **zhenglong1603/zhenglong1603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
