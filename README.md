@@ -1,13 +1,21 @@
-### Hi there 👋
+Hi 👋, I'm Zheng Long
+A passionate Computer Science student from Singapore
 
-I’m an aspiring software engineer who is passionate about building applications that impact the lives of others. I like to embrace challenges and actively seek things out of my comfort zone. 😄 I have lots more to learn, let me learn from/with you!
-feel free to take a look at some of my work! 
+🌱 I’m currently learning web development with various frameworks (mainly Next.js and React)
 
-interests: floorball, football, watching any sports, singing out of tune unforunately :(
+Skills & Technologies 🚀
+Languages: Java • JavaScript / TypeScript • Python • C • HTML / CSS • SQL • Dart 
+Frameworks / Libraries: React • Node.js • Next.js • Express.js • Flutter • Tailwind CSS
+Databases: PostgreSQL • SQLite • MongoDB • Firebase 
+AI / ML: TensorFlow • Pandas • NumPy • Python Imaging Library
+Other Tools / Technologies: Git • Nginx • Docker • Figma • VSCode  • Microsoft Office
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Connect with me
+Thank you for stopping by today 🙌
 
-GitHub Repositories that I contributed in:
-https://github.com/awlarpi/splitbee
+🤝 Drop a connection request at my LinkedIn
 
+📫 Send me an email at zhenglongsue@gmail.com
 <!--
 **zhenglong1603/zhenglong1603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
