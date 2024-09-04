@@ -9,7 +9,8 @@ Frameworks / Libraries: React • Node.js • Next.js • Express.js • Flutter
 Databases: PostgreSQL • SQLite • MongoDB • Firebase 
 AI / ML: TensorFlow • Pandas • NumPy • Python Imaging Library
 Other Tools / Technologies: Git • Nginx • Docker • Figma • VSCode  • Microsoft Office
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Connect with me
 Thank you for stopping by today 🙌
 
