@@ -6,9 +6,9 @@ A passionate Computer Science student from Singapore
 Skills & Technologies 🚀
 Languages: Java • JavaScript / TypeScript • Python • C • HTML / CSS • SQL • Dart 
 Frameworks / Libraries: React • Node.js • Next.js • Express.js • Flutter • Tailwind CSS
-Databases: PostgreSQL • SQLite • MongoDB • Firebase 
+Databases: PostgreSQL  • MongoDB • Firebase 
 AI / ML: TensorFlow • Pandas • NumPy • Python Imaging Library
-Other Tools / Technologies: Git • Nginx • Docker • Figma • VSCode  • Microsoft Office
+Other Tools / Technologies: Git • Docker • Figma • VSCode  • Microsoft Office
 
 
 Connect with me
