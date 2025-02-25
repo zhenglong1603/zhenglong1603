@@ -18,6 +18,8 @@ Thank you for stopping by today 🙌
 🤝 Drop a connection request at my LinkedIn
 
 📫 Send me an email at zhenglongsue@gmail.com
+
+Check out my porfolio website that I just built [here](https://suezhenglong.netlify.app/)
 <!--
 **zhenglong1603/zhenglong1603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
