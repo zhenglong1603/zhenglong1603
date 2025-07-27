@@ -12,7 +12,7 @@ AI / ML: TensorFlow • Pandas • NumPy • Python Imaging Library
 Other Tools / Technologies: Git • Docker • Figma • VSCode  • Microsoft Office
 
 
-Connect with me
+Connect with me!
 Thank you for stopping by today 🙌
 
 🤝 Drop a connection request at my LinkedIn
